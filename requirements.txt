@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+flask-login
+gunicorn
+sqlite3
+python-dotenv
